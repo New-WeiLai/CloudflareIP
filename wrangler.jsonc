@@ -3,7 +3,7 @@
   "main": "_worker.js",
 	"compatibility_date": "2026-01-15",
 	"assets": {
-		"directory": "./CF-Workers",
+		"directory": "./CF-Worker",
 		"not_found_handling": "404-page"
 	}
 
